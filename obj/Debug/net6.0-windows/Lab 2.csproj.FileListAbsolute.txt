@@ -1,0 +1,50 @@
+D:\Data\SE_FPT\SE5\PRN211\BTVN\Lab 2\bin\Debug\net6.0-windows\Lab 2.exe
+D:\Data\SE_FPT\SE5\PRN211\BTVN\Lab 2\bin\Debug\net6.0-windows\Lab 2.deps.json
+D:\Data\SE_FPT\SE5\PRN211\BTVN\Lab 2\bin\Debug\net6.0-windows\Lab 2.runtimeconfig.json
+D:\Data\SE_FPT\SE5\PRN211\BTVN\Lab 2\bin\Debug\net6.0-windows\Lab 2.dll
+D:\Data\SE_FPT\SE5\PRN211\BTVN\Lab 2\bin\Debug\net6.0-windows\Lab 2.pdb
+D:\Data\SE_FPT\SE5\PRN211\BTVN\Lab 2\bin\Debug\net6.0-windows\Humanizer.dll
+D:\Data\SE_FPT\SE5\PRN211\BTVN\Lab 2\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\Data\SE_FPT\SE5\PRN211\BTVN\Lab 2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Data\SE_FPT\SE5\PRN211\BTVN\Lab 2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Data\SE_FPT\SE5\PRN211\BTVN\Lab 2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\Data\SE_FPT\SE5\PRN211\BTVN\Lab 2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Data\SE_FPT\SE5\PRN211\BTVN\Lab 2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Data\SE_FPT\SE5\PRN211\BTVN\Lab 2\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Data\SE_FPT\SE5\PRN211\BTVN\Lab 2\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Data\SE_FPT\SE5\PRN211\BTVN\Lab 2\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Data\SE_FPT\SE5\PRN211\BTVN\Lab 2\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Data\SE_FPT\SE5\PRN211\BTVN\Lab 2\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Data\SE_FPT\SE5\PRN211\BTVN\Lab 2\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\Data\SE_FPT\SE5\PRN211\BTVN\Lab 2\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Data\SE_FPT\SE5\PRN211\BTVN\Lab 2\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\Data\SE_FPT\SE5\PRN211\BTVN\Lab 2\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Data\SE_FPT\SE5\PRN211\BTVN\Lab 2\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\Data\SE_FPT\SE5\PRN211\BTVN\Lab 2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Data\SE_FPT\SE5\PRN211\BTVN\Lab 2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Data\SE_FPT\SE5\PRN211\BTVN\Lab 2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Data\SE_FPT\SE5\PRN211\BTVN\Lab 2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Data\SE_FPT\SE5\PRN211\BTVN\Lab 2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Data\SE_FPT\SE5\PRN211\BTVN\Lab 2\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\Data\SE_FPT\SE5\PRN211\BTVN\Lab 2\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Data\SE_FPT\SE5\PRN211\BTVN\Lab 2\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\Data\SE_FPT\SE5\PRN211\BTVN\Lab 2\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Data\SE_FPT\SE5\PRN211\BTVN\Lab 2\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Data\SE_FPT\SE5\PRN211\BTVN\Lab 2\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Data\SE_FPT\SE5\PRN211\BTVN\Lab 2\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Data\SE_FPT\SE5\PRN211\BTVN\Lab 2\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Data\SE_FPT\SE5\PRN211\BTVN\Lab 2\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Data\SE_FPT\SE5\PRN211\BTVN\Lab 2\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Data\SE_FPT\SE5\PRN211\BTVN\Lab 2\obj\Debug\net6.0-windows\Lab 2.csproj.AssemblyReference.cache
+D:\Data\SE_FPT\SE5\PRN211\BTVN\Lab 2\obj\Debug\net6.0-windows\Lab_2.Form1.resources
+D:\Data\SE_FPT\SE5\PRN211\BTVN\Lab 2\obj\Debug\net6.0-windows\Lab 2.csproj.GenerateResource.cache
+D:\Data\SE_FPT\SE5\PRN211\BTVN\Lab 2\obj\Debug\net6.0-windows\Lab 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\SE_FPT\SE5\PRN211\BTVN\Lab 2\obj\Debug\net6.0-windows\Lab 2.AssemblyInfoInputs.cache
+D:\Data\SE_FPT\SE5\PRN211\BTVN\Lab 2\obj\Debug\net6.0-windows\Lab 2.AssemblyInfo.cs
+D:\Data\SE_FPT\SE5\PRN211\BTVN\Lab 2\obj\Debug\net6.0-windows\Lab 2.csproj.CoreCompileInputs.cache
+D:\Data\SE_FPT\SE5\PRN211\BTVN\Lab 2\obj\Debug\net6.0-windows\Lab 2.csproj.CopyComplete
+D:\Data\SE_FPT\SE5\PRN211\BTVN\Lab 2\obj\Debug\net6.0-windows\Lab 2.dll
+D:\Data\SE_FPT\SE5\PRN211\BTVN\Lab 2\obj\Debug\net6.0-windows\refint\Lab 2.dll
+D:\Data\SE_FPT\SE5\PRN211\BTVN\Lab 2\obj\Debug\net6.0-windows\Lab 2.pdb
+D:\Data\SE_FPT\SE5\PRN211\BTVN\Lab 2\obj\Debug\net6.0-windows\Lab 2.genruntimeconfig.cache
+D:\Data\SE_FPT\SE5\PRN211\BTVN\Lab 2\obj\Debug\net6.0-windows\ref\Lab 2.dll
